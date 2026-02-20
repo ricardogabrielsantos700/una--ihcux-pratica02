@@ -1,0 +1,14 @@
+C:\Users\326128294\Documents\olamundo\bin\Debug\net10.0\olamundo.exe
+C:\Users\326128294\Documents\olamundo\bin\Debug\net10.0\olamundo.deps.json
+C:\Users\326128294\Documents\olamundo\bin\Debug\net10.0\olamundo.runtimeconfig.json
+C:\Users\326128294\Documents\olamundo\bin\Debug\net10.0\olamundo.dll
+C:\Users\326128294\Documents\olamundo\bin\Debug\net10.0\olamundo.pdb
+C:\Users\326128294\Documents\olamundo\obj\Debug\net10.0\olamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326128294\Documents\olamundo\obj\Debug\net10.0\olamundo.AssemblyInfoInputs.cache
+C:\Users\326128294\Documents\olamundo\obj\Debug\net10.0\olamundo.AssemblyInfo.cs
+C:\Users\326128294\Documents\olamundo\obj\Debug\net10.0\olamundo.csproj.CoreCompileInputs.cache
+C:\Users\326128294\Documents\olamundo\obj\Debug\net10.0\olamundo.dll
+C:\Users\326128294\Documents\olamundo\obj\Debug\net10.0\refint\olamundo.dll
+C:\Users\326128294\Documents\olamundo\obj\Debug\net10.0\olamundo.pdb
+C:\Users\326128294\Documents\olamundo\obj\Debug\net10.0\olamundo.genruntimeconfig.cache
+C:\Users\326128294\Documents\olamundo\obj\Debug\net10.0\ref\olamundo.dll
